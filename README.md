@@ -2,7 +2,6 @@
 整体流程为
 
 图像加载->特征提取->模型学习->识别预测
-
 其中图像加载对应loaddata.py
 
 特征提取对应extractfeature.py
