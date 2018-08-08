@@ -13,3 +13,4 @@
 main.py用于将各个模块整合起来
 
 采用的数据集为neu-dataset,数据连接为：https://pan.baidu.com/s/1TyUVGm7vhzHcOt29MpQdqA
+this created by group six
